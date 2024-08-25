@@ -1,1 +1,1 @@
-# BookMyMovieProject
+# BookMyMovie
